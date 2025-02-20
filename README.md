@@ -1,4 +1,4 @@
-# Siabam101.github.io
+l# Siabam101.github.io
 
 <!DOCTYPE html>
 <html lang="sv">
@@ -10,11 +10,8 @@
 <body>
     <h1>Välkommen till min GitHub Pages-sida</h1>
     <p>Här kan du ladda ner eller visa PDF-filen:</p>
-    
-    <!-- Länk för att ladda ner PDF -->
-    <a href="Delprov2.pdf" target="_blank">Ladda ner PDF</a>
 
     <!-- Visa PDF direkt i webbläsaren -->
-    <embed src="document.pdf" type="application/pdf" width="100%" height="600px" />
+    <embed src="Delprov2.pdf" type="application/pdf" width="100%" height="600px" />
 </body>
 </html>
